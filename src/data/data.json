@@ -1,0 +1,83 @@
+{
+  "work": [
+    {
+      "employer": "The Wall Street Journal",
+      "title": "Graphics Reporter",
+      "location": "New York, NY",
+      "date": "Jan. 2019–present",
+      "description": [
+        "Build data visualizations, maps, and news applications for breaking news and enterprise stories online and in print"
+      ]
+    },
+    {
+      "employer": "CUNY Graduate School of Journalism",
+      "title": "Adjunct Lecturer",
+      "location": "New York, NY",
+      "date": "Aug. 2019–present",
+      "description": [
+        "Teach journalism students how to use HTML, CSS, and data to tell stories on the web"
+      ]
+    },
+    {
+      "employer": "Freelance",
+      "title": "Developer, Data Visualization",
+      "location": "New York, NY",
+      "date": "Jan. 2019–present",
+      "description": [
+        "Freelance development and data visualization for publications including Science Magazine and Dotdash (The Balance, Investopedia)"
+      ]
+    },
+    {
+      "employer": "The Texas Tribune",
+      "title": "Data Visuals Fellow",
+      "location": "Austin, TX",
+      "date": "Aug.–Dec. 2018",
+      "description": [
+        "Covered the 2018 midterms with the Data Visuals team, producing visual stories on voter turnout, demographics, and immigration"
+      ]
+    },
+    {
+      "employer": "San Francisco Chronicle",
+      "title": "Digital/Interactive Intern",
+      "location": "San Francisco, CA",
+      "date": "June–Aug. 2018",
+      "description": [
+        "Built newsroom tools and graphics on the interactives team, including a module to drive recirculation and a story template for timelines"
+      ]
+    },
+    {
+      "employer": "Dremio",
+      "title": "Data Journalist",
+      "location": "Mountain View, CA",
+      "date": "Jan.–May 2018",
+      "description": [
+        "Analyzed large datasets using company’s enterprise SQL platform to write visual stories and tutorials to drive interest in company’s product"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "school": "Brown University",
+      "title": "B.A. in Computer Science and in Classics",
+      "location": "Providence, RI",
+      "date": "Aug. 2013–May 2017",
+      "description": [
+        "Taught introductory CS curriculum for orientation program targeting minorities in STEM, edited papers as a writing fellow, managed finances for the college radio station WBRU"
+      ]
+    }
+  ],
+  "skills": {
+    "Languages": "JavaScript ES6, HTML, CSS, Python, SQL, Java",
+    "Libraries": "React, Redux, D3.js, Node, Gatsby, Pandas",
+    "Tools": "Git, ArchieML, ai2html, Adobe Illustrator and XD, Jupyter, Webpack, Gulp, Mapbox",
+    "Other": "Writing, reporting, editing, teaching, mentoring"
+  },
+  "contact": {
+    "name": "Elbert Wang",
+    "phone": "(626) 200-9623",
+    "email": "elbertwang1@gmail.com",
+    "portfolio": "elbertwang.com",
+    "twitter": "@elbertwang1",
+    "github": "elbertwang3"
+  }
+}
