@@ -40,7 +40,7 @@ const Section = props => {
           <div className="skills">
             {Object.keys(data).map(key => (
               <p class="copy">
-                <b>{key}:</b> {data[key]}
+                <span class="medium">{key}:</span> {data[key]}
               </p>
             ))}
           </div>

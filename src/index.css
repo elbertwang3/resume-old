@@ -89,10 +89,16 @@ code {
 .date {
   font-weight: 500;
 }
+
 .copy {
-  font-family: adobe-caslon-pro, serif;
-  font-size: 16px;
+  font-family: "Tiempos Text";
+  font-size: 14px;
   line-height: 20px;
+}
+
+.medium {
+  font-weight: 700;
+  /* //font-family: "Tiempos Headline"; */
 }
 
 p {

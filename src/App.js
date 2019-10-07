@@ -1,5 +1,5 @@
 import React from "react";
-import "./App.css";
+import "./fonts.css";
 import Resume from "./Resume";
 
 function App() {
