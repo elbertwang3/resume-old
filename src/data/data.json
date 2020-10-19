@@ -13,7 +13,7 @@
       "employer": "CUNY Graduate School of Journalism",
       "title": "Adjunct Lecturer",
       "location": "New York, NY",
-      "date": "Aug. 2019–present",
+      "date": "Aug. 2019–May 2020",
       "description": [
         "Teach journalism students how to use HTML, CSS, and data to tell stories on the web"
       ]
@@ -24,7 +24,7 @@
       "location": "New York, NY",
       "date": "Jan. 2019–present",
       "description": [
-        "Freelance development and data visualization for publications including Science Magazine and Dotdash (The Balance, Investopedia)"
+        "Freelance development and data visualization for publications including the World Bank, Science Magazine, and Dotdash"
       ]
     },
     {
@@ -33,7 +33,7 @@
       "location": "Austin, TX",
       "date": "Aug.–Dec. 2018",
       "description": [
-        "Covered the 2018 midterms with the Data Visuals team, producing visual stories on voter turnout, demographics, and immigration"
+        "Covered the 2018 midterms with the data visuals team, producing visual stories on voter turnout, demographics, and immigration"
       ]
     },
     {
@@ -68,8 +68,8 @@
   ],
   "skills": {
     "Languages": "JavaScript ES6, HTML, CSS, Python, SQL, Java",
-    "Libraries": "React, Redux, D3.js, Node, Gatsby, Pandas",
-    "Tools": "Git, ArchieML, ai2html, Adobe Illustrator and XD, Jupyter, Webpack, Gulp, Mapbox",
+    "Libraries/Frameworks": "React, D3.js, Node, Svelte, Gatsby, Pandas",
+    "Tools": "Git, ArchieML, ai2html, Adobe Illustrator, Jupyter, Webpack, Mapbox",
     "Other": "Writing, reporting, editing, teaching, mentoring"
   },
   "contact": {
